@@ -9,7 +9,6 @@ public class LC_AddBoldTagInString_1 {
         System.out.println(obj.addBoldTag("abcdef", new String[]{"ab", "bc", "cd", "de", "ef", "fg", "gh"}));
         System.out.println(obj.addBoldTag("xhhjzbkvpmasiypsqqjobufcqmlhdjffrdohsxgksftaekzhwzydhbfdiylihnvjlvpoptnqigszckimljbepgisnmyszfsxkxyfdfqngytfuihepohapvhbyhqydvroflfnsyjmygtykdejfudrhxxawcewgiguiwsvqrgbxrbdnrvguzjftqcsjbvjlbxfsvzpdpmtlzobwnxrtgisbcqmhugncjwgatfctydryakvbnmlbiftndfefylsmlebzdumefuflwhtwijtrhhhmknklalgqjaoicmnywtvzldbeftkydjsdkkonayhdxhrjazosqloilagcwzeezavnsqelxqhtlzymedxmkrovxhkrgfenyhxgdroeejedbwpnkqbqknalwgxoxweyxngorvrpnfkvagdqkbtuayaihyhwcsdtjzzvxfavrhzgf", new String[]{"xh", "hj", "zb", "kv", "pm", "as", "iy", "ps", "qq", "jo", "bu", "fc", "qm", "lh", "dj", "ff", "rd", "oh", "sx", "gk", "sf", "ta", "ek", "zh", "wz", "yd", "hb", "fd", "li", "hn", "vj", "lv", "po", "pt", "nq", "ig", "sz", "ck", "im", "lj", "be", "pg", "is", "nm", "ys", "zf", "kx"}));
 
-        System.arraycopy();
     }
 
     public String addBoldTag(String s, String[] dict) {
